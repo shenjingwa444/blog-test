@@ -16,7 +16,7 @@
 
 目前只学了基础的git命令：
 
-‘git add'
+    git add
 
 ```javascript
 git commit -v;
